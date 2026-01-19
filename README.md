@@ -4,6 +4,10 @@
 
 [WorkBench Download](https://dev.mysql.com/downloads/workbench/)
 
+# Docker
+
+use `docker compose up -d` on the repo path to run docker in detached mode
+
 # In Workbench
 
 ```
