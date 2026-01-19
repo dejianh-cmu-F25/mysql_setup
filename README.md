@@ -4,3 +4,20 @@
 
 [WorkBench Download](https://dev.mysql.com/downloads/workbench/)
 
+# In Workbench
+
+```
+Connection Method: Standard (TCP/IP)
+
+Hostname: 127.0.0.1
+
+Port: 3306
+
+Username: root
+
+Password: example
+```
+
+```
+
+```
